@@ -1,0 +1,10 @@
+theme green
+ls
+pwd
+theme yellow
+log
+$cur_env=100
+print $cur_env
+print this is a test
+log
+exit
